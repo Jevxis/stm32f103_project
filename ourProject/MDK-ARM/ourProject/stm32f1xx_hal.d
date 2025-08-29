@@ -24,3 +24,5 @@ ourproject\stm32f1xx_hal.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_co
 ourproject\stm32f1xx_hal.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 ourproject\stm32f1xx_hal.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 ourproject\stm32f1xx_hal.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+ourproject\stm32f1xx_hal.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+ourproject\stm32f1xx_hal.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h

@@ -4,6 +4,8 @@
 "ourproject\stm32f1xx_it.o"
 "ourproject\stm32f1xx_hal_msp.o"
 "ourproject\stm32f1xx_hal_gpio_ex.o"
+"ourproject\stm32f1xx_hal_tim.o"
+"ourproject\stm32f1xx_hal_tim_ex.o"
 "ourproject\stm32f1xx_hal.o"
 "ourproject\stm32f1xx_hal_rcc.o"
 "ourproject\stm32f1xx_hal_rcc_ex.o"
